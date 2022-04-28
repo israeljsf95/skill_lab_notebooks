@@ -1,0 +1,13 @@
+Por gentileza para elaborar o trabalho leiam as informações do arquivo Trabalho2CursoDataScience.docx  baixare considerem as seguintes instruções:
+
+1. Escolham qualquer dataset do site UCI para classification. Não pode haver dois datasets repetidos, tem que ser 1 por grupo;
+
+2. Desenvolver todos os 7 algoritmos de machine learning para classification que foi dado para esse único dataset;
+
+3. Fazer um trabalho comparativo e dizer qual o melhor algoritmo de classification e o porquê.
+
+Só para esclarecer, o trabalho vale 10, mas cada implementação de algoritmo vale 1 ponto.
+
+Boa sorte!
+
+prof. Marcelo Bianchi
